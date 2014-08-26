@@ -1,0 +1,14 @@
+#field{
+    border:black solid 1px;
+    border-collapse:collapse;
+}
+.field-part{
+    border:black solid 1px;
+    width:40px;
+    text-align:center;
+    padding-top:13px;
+    padding-bottom:13px;
+    font-size:14px;
+    color:black;
+    background-color:white;
+}
